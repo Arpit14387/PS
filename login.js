@@ -12,7 +12,7 @@ function execute() {
     {
     var x=1;
     alert("try again...");
-    window.location = "login.html";
+    window.location = "index.html";
     }
     }
     
