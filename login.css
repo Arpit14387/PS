@@ -1,0 +1,39 @@
+
+
+body{
+    background-image: url('back.jpg');
+    
+
+      background-color:black;
+}
+
+.login{
+    
+    
+    padding: 20px;
+    border: 20px;
+    color:steelblue;
+    position: absolute;
+    height: 45%;
+    top: 40%;
+    left: 45%;
+   }
+
+   .img{
+       opacity: 1;
+       position: absolute;
+       top: 48%;
+       left: 30%;
+   }
+
+   .button{
+       
+       color:red;
+       font-size: larger;
+       font-weight: bolder;
+   }
+
+   .button:hover{
+       color:blue;
+       background-color: grey;
+   }
