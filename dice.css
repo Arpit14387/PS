@@ -1,0 +1,23 @@
+.LR{
+    font-size: 40px;
+}
+
+.info{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: maroon;
+}
+
+.as{
+    text-align: center;
+    
+    font-size: 30px;
+    color: white;
+    font-style: italic;
+}
+
+.im{
+    text-align: center;
+}

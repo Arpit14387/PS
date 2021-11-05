@@ -1,0 +1,25 @@
+body{
+    background-color: grey;
+}
+.hide {
+    display: none;
+  }
+      
+  .fgfg:hover + .hide {
+    display: block;
+    font-size: small;
+    background-color:rgb(85, 82, 82);
+    color: white;
+    position: sticky;
+    border-style: solid;
+    border-width: 1px;
+  border-color: white;
+  }
+
+.as:hover{
+    color: white;
+    display: block;
+    font-size: larger;
+    font-weight: bolder;
+}
+
